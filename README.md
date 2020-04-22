@@ -32,3 +32,7 @@ Where "myapp" is the name of your new app.
 ```shell
 > npm start
 ```
+
+# More info about Electron
+
+You can go to the official page of Electron to get more info [just click here](https://www.electronjs.org/)
