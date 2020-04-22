@@ -2,6 +2,8 @@
 
 This is a template of [QCObjects](https://QCObjects.com)
 
+this template is based on the [Electron Quick Start Project](https://github.com/electron/electron-quick-start) 
+
 # Install this template
 
 In a shell inside a new project folder, write the following:
