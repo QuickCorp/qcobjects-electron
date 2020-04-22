@@ -1,0 +1,20 @@
+{
+  "name": "qcobjects-electron-app",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "description": "Awesome PWA application that will help you achieve your dreams.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "LGPL-3.0-or-later",
+  "dependencies": {
+    "qcobjects": "^2.1.414",
+    "qcobjects-sdk": "0.0.193"
+  },
+  "devDependencies": {
+    "electron": "^8.2.3"
+  }
+}
